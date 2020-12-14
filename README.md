@@ -1,4 +1,4 @@
-- [ ] Lab Utilities
+- [x] Lab Utilities
 - [ ] Lab System calls
 - [ ] Lab Page tables
 - [ ] Lab Traps

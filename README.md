@@ -1,11 +1,11 @@
 - [x] Lab Utilities
-- [ ] Lab System calls
-- [ ] Lab Page tables
-- [ ] Lab Traps
-- [ ] Lab Lazy allocation
-- [ ] Lab Copy on-write
-- [ ] Lab Multithreading
-- [ ] Lab Lock
+- [x] Lab System calls
+- [x] Lab Page tables
+- [x] Lab Traps
+- [x] Lab Lazy allocation
+- [x] Lab Copy on-write
+- [x] Lab Multithreading
+- [x] Lab Lock
 - [ ] Lab File system
 - [ ] Lab mmap
 - [ ] Lab network driver

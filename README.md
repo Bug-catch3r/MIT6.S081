@@ -122,8 +122,7 @@
 
 
 实验结果：
-
-       ```cpp
+```cpp
 $ ./grade-lab-syscall
 make: 'kernel/kernel' is up to date.
 == Test trace 32 grep == trace 32 grep: OK (1.6s)
@@ -134,7 +133,7 @@ make: 'kernel/kernel' is up to date.
 == Test time ==
 time: OK
 Score: 35/35
-       ```
+```
 
 
 
